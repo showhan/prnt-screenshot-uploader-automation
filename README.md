@@ -1,4 +1,4 @@
-# 📸 Print Screenshot Upload Automation using Playwright → prnt.sc
+# 📸 Print Screenshot Automation with Playwright
 
 A fast, silent, privacy-friendly Mac automation that uploads your latest screenshot to ```prnt.sc```, copies the link, shows a notification (with thumbnail), opens the link, and removes the local file. 
 
